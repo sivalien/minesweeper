@@ -1,0 +1,40 @@
+Please, select game mode (a, b or c)
+a
+-----
+-----
+-----
+-----
+-----
+2 2 Open
+00000
+00000
+00000
+11111
+-----
+0 0 Open
+This cell has been already opened or marked as flag
+4 0 Open
+00000
+00000
+00000
+11111
+1----
+4 1 Flag
+00000
+00000
+00000
+11111
+1f---
+4 2 Open
+00000
+00000
+00000
+11111
+1f1--
+4 3 Open
+You win!
+00000
+00000
+00000
+11111
+1*11*
